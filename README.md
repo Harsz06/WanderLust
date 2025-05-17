@@ -1,4 +1,4 @@
-![wa1](https://github.com/user-attachments/assets/da7405fc-e241-47b4-9b4d-e305e6411e14)# WanderLust
+# WanderLust
 Project-Wanderlust: A Global Hotel Listing Platform
 
 About the Project:
